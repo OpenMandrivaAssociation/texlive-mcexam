@@ -1,6 +1,6 @@
 Name:		texlive-mcexam
 Version:	60481
-Release:	1
+Release:	2
 Summary:	Create randomized Multiple Choice questions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mcexam
