@@ -3,7 +3,7 @@ Version:	60481
 Release:	2
 Summary:	Create randomized Multiple Choice questions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mcexam
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mcexam
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mcexam.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mcexam.doc.r%{version}.tar.xz
